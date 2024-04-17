@@ -23,7 +23,7 @@ export const parseStreaming = async (
     headers: {
       "Content-Type": "application/json",
       Accept: "*./*",
-      Authorization: `Bearer ${process.env.NEXT_PUBLIC_LEPTON_API_TOKEN}`,
+      Authorization: `Bearer pyfu7v85kgeqydamcqnaxwxnuu6h73bm`,
     },
     signal: controller.signal,
     body: JSON.stringify({
